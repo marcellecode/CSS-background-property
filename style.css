@@ -1,0 +1,14 @@
+* {
+    padding: 5px;
+    font-family: 'Nunito', sans-serif;
+    word-wrap: break-word;
+}
+
+.container {
+    background-image: url('https://images.unsplash.com/photo-1665510431494-5c8c4e5daa96?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1336&q=80');
+    background-attachment: scroll;
+}
+
+.content {
+    background-color: rgba(239, 239, 239, 0.5);
+}
